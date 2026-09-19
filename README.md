@@ -37,7 +37,7 @@
 
 <img src="./assets/projects/ethsim.gif" width="100%" alt="Animated ETHSim workflow">
 
-[**View source →**](https://github.com/BoomTwice2510/ETHTRENDS-Simulator) · [**Open demo →**](https://ethtrends-simulator.vercel.app/)
+[**View source →**](https://github.com/BoomTwice2510/ETHTRENDS-Simulator) · [**Open demo →**](https://ethsim.vercel.app/)
 
 A browser-based crypto simulation and analytics project for testing strategy behaviour and performance.
 
@@ -78,6 +78,8 @@ An AI-powered X creator operating system focused on opportunity discovery, conve
 <img src="./assets/projects/dheevix.gif" width="100%" alt="Animated Dheevix private project">
 
 **Private proprietary build.** Detailed implementation is kept private. The portfolio deliberately shows its status without fabricating an architecture that is not publicly documented.
+
+**Demo:** [ETH TRENDs](https://dheevix.vercel.app/)
 
 ---
 
