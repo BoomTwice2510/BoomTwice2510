@@ -1,10 +1,26 @@
-# BoomTwice2510 GitHub Profile
+# BoomTwice2510 profile setup
 
-1. Create a **public** repository named exactly `BoomTwice2510`.
-2. Upload `README.md` and the `assets` folder.
-3. Commit the files.
-4. Open your GitHub profile.
+Create a public repository named exactly `BoomTwice2510`, then upload:
 
-The README will appear automatically because the repository name matches your GitHub username.
+- README.md
+- assets/hero.gif
+- assets/projects/*.gif
 
-The animation uses GIFs intentionally. GitHub supports GIF images, while GitHub's current documentation says SVGs do not support inline scripting or animation when rendered on GitHub.
+Commit to the default branch.
+
+The README links to the public repositories and live apps. Private projects remain private and are represented by animated portfolio cards without exposing source code.
+
+## Public repositories used
+
+- ETHTRENDS-Simulator
+- baseflow
+- Celo-Commerce-Agent
+- Project-Falcon
+
+## Private projects represented
+
+- ETH TRENDs
+- Gold Bot
+- Dheevix
+
+Do not make the private repositories public just for portfolio purposes.
