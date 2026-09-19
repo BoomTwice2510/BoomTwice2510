@@ -24,3 +24,5 @@ The README links to the public repositories and live apps. Private projects rema
 - Dheevix
 
 Do not make the private repositories public just for portfolio purposes.
+
+The profile also includes an animated Project Falcon workflow panel and an animated BUILDING footer.

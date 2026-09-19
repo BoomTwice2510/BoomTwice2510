@@ -5,7 +5,8 @@
 ### CT · SharePluse
 **Web3 Builder · Crypto Automation · Backend Systems**
 
-[![X](https://img.shields.io/badge/X-@sharepluse-111827?style=flat-square&logo=x&logoColor=white)](https://x.com/sharepluse) [![Telegram](https://img.shields.io/badge/Telegram-@sharepluse-111827?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sharepluse) [![LinkedIn](https://img.shields.io/badge/LinkedIn-SharePluse-111827?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oxshare/) [![GitHub](https://img.shields.io/badge/GitHub-BoomTwice2510-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/BoomTwice2510)
+[![X](https://img.shields.io/badge/X-@sharepluse-111827?style=flat-square&logo=x&logoColor=white)](https://x.com/sharepluse)
+[![GitHub](https://img.shields.io/badge/GitHub-BoomTwice2510-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/BoomTwice2510)
 
 </div>
 
@@ -79,7 +80,7 @@ An AI-powered X creator operating system focused on opportunity discovery, conve
 
 **Private proprietary build.** Detailed implementation is kept private. The portfolio deliberately shows its status without fabricating an architecture that is not publicly documented.
 
-**Demo:** [ETH TRENDs](https://dheevix.vercel.app/)
+**Demo:** [Dheevix](https://dheevix.vercel.app/)
 
 ---
 
@@ -108,6 +109,6 @@ DATA            Analytics · Simulation · Event/Data Pipelines
 
 <div align="center">
 
-`status: building`
+<img src="./assets/status-building.gif" width="85%" alt="Animated building status">
 
 </div>
