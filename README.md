@@ -2,12 +2,20 @@
 
 <img src="./assets/hero.gif" width="100%" alt="SharePluse animated developer header">
 
-### 🅒🅣 · SharePluse
+### CT · SharePluse
 **Web3 Builder · Crypto Automation · Backend Systems**
 
 [![X](https://img.shields.io/badge/X-@sharepluse-111827?style=flat-square&logo=x&logoColor=white)](https://x.com/sharepluse) [![Telegram](https://img.shields.io/badge/Telegram-@sharepluse-111827?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sharepluse) [![LinkedIn](https://img.shields.io/badge/LinkedIn-SharePluse-111827?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oxshare/) [![GitHub](https://img.shields.io/badge/GitHub-BoomTwice2510-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/BoomTwice2510)
 
 </div>
+
+---
+
+## `> about`
+
+I'm **CT**, a freelance builder working across Web3, crypto automation, backend systems and product infrastructure.
+
+I build practical systems around **automation, trading infrastructure, market analytics, onchain workflows and simulation**. Some systems are public, while proprietary products remain private and are shown here only at a high level.
 
 ---
 
@@ -20,6 +28,8 @@
 ---
 
 ## `> selected_systems`
+
+A mix of public products, private infrastructure and systems currently in development.
 
 ### ETH TRENDs · Private
 
@@ -87,7 +97,7 @@
 
 <img src="./assets/projects/dheevix.gif" width="100%" alt="Animated Dheevix market analytics SaaS">
 
-**Private market-analysis SaaS.** Built as a whole-market analysis platform for turning broad market data into structured analytics and useful market intelligence.
+**Private market-analysis SaaS.** Built to analyze broad market data and turn it into structured analytics, market intelligence and useful decision-support views.
 
 **Demo:** [Open Dheevix](https://dheevix.vercel.app)
 
@@ -113,6 +123,12 @@ FRONTEND        Next.js · Android · HTML/CSS/JS
 INFRA           Railway · Vercel · GitHub
 DATA            Market Analysis · Simulation · Analytics · Event Pipelines
 ```
+
+## `> connect`
+
+[**X / @sharepluse**](https://x.com/sharepluse) · [**Telegram / @sharepluse**](https://t.me/sharepluse) · [**LinkedIn**](https://www.linkedin.com/in/oxshare/) · [**GitHub**](https://github.com/BoomTwice2510)
+
+---
 
 ## `> build_principles`
 
