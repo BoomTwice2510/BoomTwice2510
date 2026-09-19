@@ -1,44 +1,25 @@
 # BoomTwice2510 profile setup
 
-Create a public repository named exactly `BoomTwice2510`, then upload:
+Create a **public repository named exactly `BoomTwice2510`** and upload the contents of this package to the default branch.
 
-- README.md
-- assets/hero.gif
-- assets/projects/*.gif
+## Included
 
-Commit to the default branch.
+- Animated hero header
+- Animated `WHAT I BUILD` section
+- Private ETH TRENDs showcase with Binance auto-trading, risk/security controls and auditable signal data
+- Private Gold Bot showcase with Binance auto-trading and auditable trading controls
+- Public ETHSim showcase with the correct demo link
+- Public BaseFlow showcase
+- Public Celo Commerce Agent showcase for local-merchant use cases
+- Public Project Falcon showcase marked as in development
+- Private Dheevix market-analysis SaaS showcase with the correct demo link
+- Animated `CURRENTLY BUILDING` section
+- Animated `status: BUILDING` footer
 
-The README links to the public repositories and live apps. Private projects remain private and are represented by animated portfolio cards without exposing source code.
+## Important
 
-## Public repositories used
+The old placeholder **Live GitHub signals** section and fake activity-state counters have been removed.
 
-- ETHTRENDS-Simulator
-- baseflow
-- Celo-Commerce-Agent
-- Project-Falcon
+There are no external stats-image services or GitHub Actions required for this version.
 
-## Private projects represented
-
-- ETH TRENDs
-- Gold Bot
-- Dheevix
-
-Do not make the private repositories public just for portfolio purposes.
-
-The profile also includes an animated Project Falcon workflow panel and an animated BUILDING footer.
-
-## Activity section
-
-V4 adds:
-- colorful animated activity dashboard
-- live GitHub stats
-- live top-language card
-- live contribution activity graph
-- X / Telegram / LinkedIn / GitHub social badges
-
-The live stats use third-party GitHub README services. If a service is temporarily unavailable, the animated dashboard still remains in the profile.
-
-
-## V5 live activity
-
-The broken external stats cards were replaced with SVG cards generated inside this repository by GitHub Actions. The workflow runs daily and can also be started manually from Actions. It uses the repository's built-in `GITHUB_TOKEN`.
+Keep the private repositories private. The README only exposes high-level product capabilities and portfolio context, not proprietary source code.
