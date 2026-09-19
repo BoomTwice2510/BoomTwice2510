@@ -5,8 +5,7 @@
 ### CT · SharePluse
 **Web3 Builder · Crypto Automation · Backend Systems**
 
-[![X](https://img.shields.io/badge/X-@sharepluse-111827?style=flat-square&logo=x&logoColor=white)](https://x.com/sharepluse)
-[![GitHub](https://img.shields.io/badge/GitHub-BoomTwice2510-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/BoomTwice2510)
+[![X](https://img.shields.io/badge/X-@sharepluse-111827?style=flat-square&logo=x&logoColor=white)](https://x.com/sharepluse) [![Telegram](https://img.shields.io/badge/Telegram-@sharepluse-111827?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sharepluse) [![LinkedIn](https://img.shields.io/badge/LinkedIn-SharePluse-111827?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oxshare/) [![GitHub](https://img.shields.io/badge/GitHub-BoomTwice2510-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/BoomTwice2510)
 
 </div>
 
@@ -83,6 +82,30 @@ An AI-powered X creator operating system focused on opportunity discovery, conve
 **Demo:** [Dheevix](https://dheevix.vercel.app/)
 
 ---
+
+
+## `> activity`
+
+<div align="center">
+
+<img src="./assets/activity-dashboard.gif" width="100%" alt="Animated colorful GitHub activity dashboard">
+
+</div>
+
+### Live GitHub signals
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BoomTwice2510&show_icons=true&hide_border=true&bg_color=0b1018&title_color=41cdff&text_color=f2f6fa&icon_color=a469ff&ring_color=55e196" width="49%" alt="GitHub statistics">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoomTwice2510&layout=compact&hide_border=true&bg_color=0b1018&title_color=41cdff&text_color=f2f6fa&icon_color=a469ff" width="49%" alt="Top languages">
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BoomTwice2510&bg_color=0b1018&color=f2f6fa&line=41cdff&point=ff5e97&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph">
+
+</div>
 
 ## `> stack`
 
