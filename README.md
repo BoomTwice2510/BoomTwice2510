@@ -95,17 +95,15 @@ An AI-powered X creator operating system focused on opportunity discovery, conve
 ### Live GitHub signals
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=BoomTwice2510&show_icons=true&hide_border=true&bg_color=0b1018&title_color=41cdff&text_color=f2f6fa&icon_color=a469ff&ring_color=55e196" width="49%" alt="GitHub statistics">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoomTwice2510&layout=compact&hide_border=true&bg_color=0b1018&title_color=41cdff&text_color=f2f6fa&icon_color=a469ff" width="49%" alt="Top languages">
-
+<img src="./assets/github-stats.svg" width="49%" alt="GitHub statistics">
+<img src="./assets/top-languages.svg" width="49%" alt="Top languages">
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BoomTwice2510&bg_color=0b1018&color=f2f6fa&line=41cdff&point=ff5e97&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph">
-
+<img src="./assets/contributions.svg" width="100%" alt="GitHub contribution activity">
 </div>
+
+> Generated inside this profile repository by GitHub Actions. No external stats-image service is required.
 
 ## `> stack`
 

@@ -37,3 +37,8 @@ V4 adds:
 - X / Telegram / LinkedIn / GitHub social badges
 
 The live stats use third-party GitHub README services. If a service is temporarily unavailable, the animated dashboard still remains in the profile.
+
+
+## V5 live activity
+
+The broken external stats cards were replaced with SVG cards generated inside this repository by GitHub Actions. The workflow runs daily and can also be started manually from Actions. It uses the repository's built-in `GITHUB_TOKEN`.
